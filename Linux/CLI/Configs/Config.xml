@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <pdfConfig>
+		<metadata>sanitise</metadata>
+		<javascript>sanitise</javascript>
+		<acroform>sanitise</acroform>
+		<actions_all>sanitise</actions_all>
+		<embedded_files>sanitise</embedded_files>
+		<external_hyperlinks>sanitise</external_hyperlinks>
+		<internal_hyperlinks>sanitise</internal_hyperlinks>
+		<embedded_images>sanitise</embedded_images>
+    </pdfConfig>
+    <wordConfig>
+		<metadata>sanitise</metadata>
+		<macros>sanitise</macros>
+		<embedded_files>sanitise</embedded_files>
+		<review_comments>sanitise</review_comments>
+		<internal_hyperlinks>sanitise</internal_hyperlinks>
+		<external_hyperlinks>sanitise</external_hyperlinks>
+		<dynamic_data_exchange>sanitise</dynamic_data_exchange>
+		<embedded_images>sanitise</embedded_images>
+    </wordConfig>
+    <pptConfig>
+		<metadata>sanitise</metadata>
+		<macros>sanitise</macros>
+		<embedded_files>sanitise</embedded_files>
+		<review_comments>sanitise</review_comments>
+		<internal_hyperlinks>sanitise</internal_hyperlinks>
+		<external_hyperlinks>sanitise</external_hyperlinks>
+		<embedded_images>sanitise</embedded_images>
+    </pptConfig>
+    <xlsConfig>
+		<metadata>sanitise</metadata>
+		<macros>sanitise</macros>
+		<embedded_files>sanitise</embedded_files>
+		<internal_hyperlinks>sanitise</internal_hyperlinks>
+		<external_hyperlinks>sanitise</external_hyperlinks>
+		<review_comments>sanitise</review_comments>
+		<dynamic_data_exchange>sanitise</dynamic_data_exchange>
+		<embedded_images>sanitise</embedded_images>
+    </xlsConfig>	
+    <tiffConfig>
+	    <geotiff>sanitise</geotiff>
+    </tiffConfig>
+</config>
