@@ -1,6 +1,6 @@
 # Rebuild SDK Evaluation
 
-Evaluation versions of the Glasswall Rebuild SDK expires on 20/078/2020
+Evaluation versions of the Glasswall Rebuild SDK expires on 09/09/2020
 
 ## Library
 
