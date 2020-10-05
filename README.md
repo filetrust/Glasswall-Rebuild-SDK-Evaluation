@@ -1,6 +1,6 @@
 # Rebuild SDK Evaluation
 
-Evaluation versions of the Glasswall Rebuild SDK for Linux expires on 04/10/2020 and Windows expires on 02/10/2020
+Evaluation versions of the Glasswall Rebuild SDK for Linux expires on 25/10/2020 and Windows expires on 25/10/2020
 
 ## Library
 
