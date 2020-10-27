@@ -1,3 +1,7 @@
+# DEPRECATED - No longer actively maintained
+## [Click here](https://github.com/filetrust/sdk-rebuild-eval) to access the new repository
+
+
 # Rebuild SDK Evaluation
 
 Evaluation versions of the Glasswall Rebuild SDK for Linux expires on 25/10/2020 and Windows expires on 25/10/2020
